@@ -5,14 +5,14 @@
 
 초보자도 쉽게 배울 수 있도록 R 수업 내용을 정리하였습니다.
 
-<img src="https://github.com/oracleyu01/R_class/blob/main/R%20%EC%88%98%EC%97%852.png" width="600" height="400">
+<img src="https://github.com/godeboon/R-PROGRAM/blob/main/R%20%EC%88%98%EC%97%852.png" width="600" height="400">
 
 &nbsp;
 
 ## 수업 자료( ☀️ 2024년 6월 26일 updated)
 
 
-- **예제1. R 을 배워야하는 이유 ?**:  📄[노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C1.%20R%20%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.txt)
+- **예제1. R 을 배워야하는 이유 ?**:  📄[노트](https://www.notion.so/R-6f8e8b94715643dea662ff4acc13048f)
   &nbsp;
   
 - **예제2. R 설치하기 !**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C2.%20%20R%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.txt)
